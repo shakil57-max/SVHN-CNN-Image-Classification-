@@ -40,4 +40,4 @@ plot_sample_predictions(x_test, y_test, model)
 # Save Model
 model.save('svhn_cnn_model.h5')
 print("\nModel saved as svhn_cnn_model.h5")
-print("=== Project Completed Successfully! ===")
+print("Project Completed Successfully!")
